@@ -4,6 +4,15 @@ A modern, responsive implementation of the classic Tic Tac Toe game with clean U
 
 ---
 
+## Demo:
+- Live Link: https://parvv04.github.io/Tic-Tac-Toe/
+- Live Demo:
+  
+
+https://github.com/user-attachments/assets/08e487b8-e99d-4048-89b2-05176cc1c99e
+
+
+
 ## Features
 
 - 🎨 **Modern UI** with responsive design
@@ -54,15 +63,7 @@ tic-tac-toe/
 4. First player to get 3 in a row wins!
 5. Click "Restart Game" to play again
 
----
-
-### Architecture Overview
-
-The game follows a modular pattern with clear separation of concerns:
-
-- **Gameboard**: Manages the game state (3x3 grid)
-- **GameController**: Handles game rules, turns, and win detection
-- **DisplayController**: Manages all DOM updates and user interactions
+--- 
 
 ## Future Enhancements
 
@@ -71,13 +72,6 @@ The game follows a modular pattern with clear separation of concerns:
 - [ ] AI opponent option
 - [ ] Animations for winning line
 - [ ] Sound effects
-
----
-
-## 📬 Author
-
-Created by Parvv04   
-Feel free to star ⭐ the repo, fork it, or suggest improvements!
 
 ---
 
